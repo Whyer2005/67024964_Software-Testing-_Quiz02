@@ -1,0 +1,25 @@
+1770782759024	geckodriver	INFO	Listening on 127.0.0.1:54193
+1770782762106	mozrunner::runner	INFO	Running command: "C:\\Users\\kanti\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kanti\\AppData\\Local\\Temp\\rust_mozprofileWIg6iz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770782764772	Marionette	INFO	Marionette enabled
+1770782765071	Marionette	INFO	Listening on port 52330
+WebDriver BiDi listening on ws://127.0.0.1:54194
+Read port: 52330
+1770782765363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/gt94c/0x4AAAAAABtoPXIouoJq6vew/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/qkzjx/0x4AAAAAABtoPXIouoJq6vew/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1770782860726	Marionette	INFO	Stopped listening on port 52330
+Dynamically enable window occlusion 1
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.watcher2.process7//customhighlighter31, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:320:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:57:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:62:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:634:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:62:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:828:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:796:16\nssi_onQuitApplicationGranted@resource:///modules/sessionstore/SessionStore.sys.mjs:2866:19\nssi_observe@resource:///modules/sessionstore/SessionStore.sys.mjs:1579:14\nquit@chrome://remote/content/shared/Browser.sys.mjs:94:22\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.sys.mjs:3414:42\ndispatch@chrome://remote/content/marionette/server.sys.mjs:318:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:289:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:263:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20\n", "resource://devtools/shared/protocol/Front.js", 105))
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.14.2 on win32)" generated="2026-02-11T11:34:20.054074" rpa="false" schemaversion="5">
+<suite id="s1" name="testRF02" source="C:\Users\robot_softest\67024964_Software-Testing-_Quiz02\testRF02.robot">
+<kw name="Open Browser" owner="SeleniumLibrary" type="SETUP">
+<msg time="2026-02-11T11:34:20.400445" level="INFO">Opening browser 'Chrome' to base url 'https://reg.up.ac.th/'.</msg>
+<arg>https://reg.up.ac.th/</arg>
+<arg>Chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-11T11:34:20.399585" elapsed="11.631211"/>
+</kw>
+<test id="s1-t1" name="Login with Standard User" line="16">
+<kw name="Click Login Button">
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-11T11:34:32.035058" level="INFO">Clicking element 'xpath=/html/body/header/div[1]/div[2]/div[3]/div/button'.</msg>
+<arg>xpath=/html/body/header/div[1]/div[2]/div[3]/div/button</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-11T11:34:32.034105" elapsed="0.128610"/>
+</kw>
+<status status="PASS" start="2026-02-11T11:34:32.033147" elapsed="0.129796"/>
+</kw>
+<status status="PASS" start="2026-02-11T11:34:32.031124" elapsed="0.132323"/>
+</test>
+<kw name="Close Browser" owner="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-11T11:34:32.164882" elapsed="2.407540"/>
+</kw>
+<status status="PASS" start="2026-02-11T11:34:20.056486" elapsed="14.516160"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="testRF02" id="s1" pass="1" fail="0" skip="0">testRF02</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

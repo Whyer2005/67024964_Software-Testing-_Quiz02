@@ -1,0 +1,14 @@
+1770782951481	geckodriver	INFO	Listening on 127.0.0.1:55124
+1770782954568	mozrunner::runner	INFO	Running command: "C:\\Users\\kanti\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kanti\\AppData\\Local\\Temp\\rust_mozprofile2yRcho"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770782955177	Marionette	INFO	Marionette enabled
+1770782955307	Marionette	INFO	Listening on port 63753
+WebDriver BiDi listening on ws://127.0.0.1:55125
+Read port: 63753
+1770782955496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/avp2r/0x4AAAAAABtoPXIouoJq6vew/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1770783050938	Marionette	INFO	Stopped listening on port 63753
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.

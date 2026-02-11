@@ -1,0 +1,17 @@
+1770783159767	geckodriver	INFO	Listening on 127.0.0.1:53969
+1770783162846	mozrunner::runner	INFO	Running command: "C:\\Users\\kanti\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kanti\\AppData\\Local\\Temp\\rust_mozprofileL0ZAF6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770783163344	Marionette	INFO	Marionette enabled
+1770783163493	Marionette	INFO	Listening on port 57974
+WebDriver BiDi listening on ws://127.0.0.1:53970
+Read port: 57974
+1770783163685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/v31fk/0x4AAAAAABtoPXIouoJq6vew/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/v31fk/0x4AAAAAABtoPXIouoJq6vew/auto/fbE/auto_timeout/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/v31fk/0x4AAAAAABtoPXIouoJq6vew/auto/fbE/auto_timeout/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1770783445839	Marionette	INFO	Stopped listening on port 57974
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
